@@ -1,3 +1,4 @@
+![status](https://github.com/dkotoski/react-redux-slices/workflows/CI/badge.svg)
 ## Learning React and Redux: decoupling with stateless components
 
 Welcome to official repository for Udemy course  
