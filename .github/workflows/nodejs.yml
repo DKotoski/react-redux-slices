@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: action-yarn
-      uses: comchangs/action-yarn@v0.1-beta
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
